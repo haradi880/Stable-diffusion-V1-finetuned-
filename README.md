@@ -10,7 +10,8 @@
 
 ### Generated Example
 ![Generated Pokémon](output/result2.png)
-*Prompt: "cute electric pokemon, anime style, soft lighting"*
+
+*Prompt: "cute pokemon with big eyes, anime style, soft lighting"*
 
 ---
 
@@ -125,3 +126,4 @@ pokemon-stable-diffusion-finetuning/
 ```
 
 ```
+
